@@ -1,0 +1,19 @@
+table.uno {
+    border: red
+}
+
+table.dos {
+    border: red 1px solid
+}
+
+table.tres {
+    border: rgb(67, 184, 67) 2px solid
+}
+
+td.A {
+    border: blue 3px solid;
+}
+
+td {
+    text-align: center;
+}
